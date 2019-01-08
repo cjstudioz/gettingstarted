@@ -1,12 +1,16 @@
 # gettingstarted
 examples on setting up python for data scientists
 
-https://www.anaconda.com/download/
-Python 3.7 64 bit windows 
-or
+<br><br>
+
+https://www.anaconda.com/download/<br>
+Python 3.7 64 bit windows <br>
+or<br>
 https://repo.continuum.io/archive/Anaconda3-2018.12-Windows-x86_64.exe
 
-download pycharm *community*:
-https://www.jetbrains.com/pycharm/download/#section=windows
-or
+<br><br>
+
+download pycharm *community*:<br>
+https://www.jetbrains.com/pycharm/download/#section=windows<br>
+or<br>
 https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
