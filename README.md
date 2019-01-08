@@ -14,3 +14,7 @@ download pycharm *community*:<br>
 https://www.jetbrains.com/pycharm/download/#section=windows<br>
 or<br>
 https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
+
+<br><br>
+
+https://jupyter.org/try
