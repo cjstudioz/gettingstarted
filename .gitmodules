@@ -1,0 +1,3 @@
+[submodule "pythonscripts"]
+	path = pythonscripts
+	url = https://github.com/cjstudioz/pythonscripts.git
